@@ -1,2 +1,35 @@
 # veriYapilariAlgoritmalar
-Kodluyoruz- Veri Yapilari Algoritmalar
+
+#1.ÖDEV
+
+**Insertion Sort**
+
+`[22,27,16,2,18,6] n.Aşama`
+
+`[2,27,16,22,18,6] n-1 Aşama`
+
+`[2,6,16,22,18,27] n-2 Aşama`
+
+`[2,6,16,18,22,27] n-3 Aşama`
+
+n+(n-1)+(n-2)..1   n*(n+1)/2     (n^2+1)/2    ` o(n^2)`
+
+
+Average Case
+`[2,6,16,18,22,27] => 16,18`
+
+
+Worst Case
+`[2,6,16,18,22,27] => 27`
+
+
+Best Case 
+`[2,6,16,18,22,27] => 2`
+
+------------------------------
+#2.ÖDEV
+
+**Merge Sort**
+
+
+[16,21,11,8,12,22]
